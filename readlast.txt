@@ -1,0 +1,10 @@
+I wanted to add this piece, as a follow up for the project.
+
+There were a number of mistakes that I made during the creation, and I recognize those. I do wonder if some people caught the misuse 
+of data during some of the stats section.
+Along with that, I didn't really know what to focus on or... do for this project, so it was a bit of a struggle.
+
+I might come back to this at some point in time, but for now, I have neither the time nor the energy to commit in making 
+fixes and changes to the code, the visuals, or anything else.
+
+Thanks for sticking around, and look forward to improved projects!
